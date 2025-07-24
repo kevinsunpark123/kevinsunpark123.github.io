@@ -2,7 +2,7 @@
 layout: home
 
 title: "Kevin Park"
-subtitle: Astronomer, Philosopher, Mathematician
+subtitle: Astronomer, Mathematician
 share-title: "Hypatia of Alexandria - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
