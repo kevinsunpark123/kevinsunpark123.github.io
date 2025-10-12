@@ -2,7 +2,7 @@
 layout: home
 
 title: "Personal Website of Kevin Park"
-subtitle: Astrophysics, Supermassive Black Hole Binaries, Quasars
+subtitle: Astrophysics, Supermassive Black Hole Binaries, Quasars, LSST
 share-title: ""
 share-description: ""
 support-promo-box: true
@@ -16,7 +16,8 @@ Hi! I'm Kevin.
 
 ![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
 
-## Connect with Me
+## Connect with Me at either
 
 - 📧 [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
+- 📧 [Kevin.Park@ist.ac.at](mailto:Kevin.Park@ist.ac.at)
 ---
