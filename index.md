@@ -19,5 +19,4 @@ Hi! I'm Kevin.
 ## Connect with Me at either
 
 - 📧 [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
-- 📧 [Kevin.Park@ist.ac.at](mailto:Kevin.Park@ist.ac.at)
 ---
