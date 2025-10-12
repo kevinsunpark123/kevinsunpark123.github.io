@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 
-title: "Personal Website of Kevin Park"
+title: "Kevin Park"
 subtitle: Supermassive Black Hole Binaries, Quasars, LSST
 share-title: ""
 share-description: ""
