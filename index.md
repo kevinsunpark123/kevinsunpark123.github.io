@@ -7,14 +7,14 @@ share-title: ""
 share-description: ""
 support-promo-box: true
 cover-img:
-    - "assets/images/증명사진(최근).jpeg"
+    - ""
 ---
 
 # About me
 
 Hi! I'm Kevin.
 
-![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
+![Hypatia of Alexandria](assets/images/증명사진(최근).jpeg)
 
 ## Contact Me at:
 
