@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hypatia of Alexandria
-email: ttalbertott@gmail.com
+title: Kevin Park
+email: ksp2136@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Hypatia of Alexandria, Astronomer, philosopher and mathematician.
+  Personal website of Kevin Park.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevinsunpark123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  atorralbt
+github_username:  kevinsunpark123
 
 # Build settings
 # theme: minima
@@ -36,6 +36,7 @@ index_page: "about-me"
 # Navigation bar links
 navbar-links:
   Home: "/"
+  Research: "Research"
   Publications: "Publications"
 
 # Image to show in the navigation bar - works best with a square image
@@ -49,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hypatia.alexandria@ista.ac.at"
+  email: "ksp2136@columbia.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: hypatiarules
   github: hypatiarules
@@ -95,7 +96,7 @@ plugins:
   - jekyll-feed
   
   
-keywords: "astronomy,philosophy,mathematics,galaxies,hypatia,astrolabe"
+keywords: "Astrophysics, Supermassive Black Hole Binaries, Self-Lensing, Quasars"
 
 
 
