@@ -6,7 +6,7 @@ permalink: /Research/
 
 # Previous Research
 
-I study the transient signatures (self-lensing flares) of **supermassive black hole binaries** (SMBHBs). See detailed descriptions and outputs of my previous research [here](/publications/).
+I study the transient signatures (self-lensing flares) of **supermassive black hole binaries** (SMBHBs). See detailed descriptions and outputs of my previous research [here](/Publications/).
 
 
 ## Current Projects
