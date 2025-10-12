@@ -16,7 +16,7 @@ Hi! I'm Kevin.
 
 ![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
 
-## Connect with Me at either
+## Contact Me at:
 
 - 📧 [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
 ---
