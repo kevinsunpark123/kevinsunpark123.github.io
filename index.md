@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 
 title: "Kevin Park"
 subtitle: Supermassive Black Hole Binaries, Quasars, LSST
@@ -14,11 +14,7 @@ cover-img:
 
 Hi! I'm Kevin.
 
-<p align="center">
-  <img src="/assets/images/증명사진(최근).jpeg"
-       alt="Kevin picture"
-       style="width:300px; border-radius:10px;">
-</p>
+{% include image.html url="/assets/images/증명사진(최근).jpeg" width="300px" description="Kevin Park" %}
 
 ## Contact Me at:
 
