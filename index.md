@@ -7,7 +7,7 @@ share-title: ""
 share-description: ""
 support-promo-box: true
 cover-img:
-    - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
+    - "assets/images/증명사진(최근).jpeg"
 ---
 
 # About me
