@@ -36,8 +36,8 @@ index_page: "about-me"
 # Navigation bar links
 navbar-links:
   Home: "/"
-  Research: "Research"
-  Publications: "Publications"
+  Research: "/Research/"
+  Publications: "/Publications/"
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
