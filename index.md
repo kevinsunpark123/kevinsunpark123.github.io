@@ -14,7 +14,11 @@ cover-img:
 
 Hi! I'm Kevin.
 
-![Kevin picture](/assets/images/증명사진(최근).jpeg){: style="width:300px; border-radius:10px;" }
+<p align="center">
+  <img src="/assets/images/증명사진(최근).jpeg"
+       alt="Kevin picture"
+       style="width:300px; border-radius:10px;">
+</p>
 
 ## Contact Me at:
 
