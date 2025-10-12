@@ -14,7 +14,7 @@ cover-img:
 
 Hi! I'm Kevin.
 
-![Hypatia of Alexandria](assets/images/증명사진(최근).jpeg)
+![Kevin picture](/assets/images/증명사진(최근).jpeg){: style="width:300px; border-radius:10px;" }
 
 ## Contact Me at:
 
