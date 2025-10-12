@@ -12,10 +12,7 @@ cover-img:
 # About me
 Hi! I'm Kevin.
 
-{% include image.html
-   url="/assets/images/증명사진(최근).jpeg"
-   style="width:500px; border-radius:10px;"
-   description="Kevin Park" %}
+![Kevin picture](/assets/images/증명사진(최근).jpeg)
 
 ## Contact Me at:
 - 📧 [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
