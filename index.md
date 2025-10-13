@@ -20,4 +20,4 @@ So far, I have been focusing on one EM signature called gravitational self-lensi
 I am interested in all types of EM signatures of SMBHBs, e.g. relativistic Doppler Boost, hydrodynamical accretion variability, merger signatures in light curves, spectral signatures, etc. I am also interested in the recently discovered Quasi-Periodic Eruptions (QPEs), which are thought to be stellar-mass objects periodically punching through the accretion disks of supermassive black holes.
 
 ## Contact Me at:
-- 📧 [Kevin.Park.ist.ac.at](mailto:Kevin.Park.ist.ac.at)
+- 📧 [Kevin.Park@ist.ac.at](mailto:Kevin.Park@ist.ac.at)
