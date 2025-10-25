@@ -4,10 +4,5 @@ title: "Research"
 permalink: /Research/
 ---
 
-# Previous Research
-
-I study the transient signatures (self-lensing flares) of **supermassive black hole binaries** (SMBHBs). See detailed descriptions and outputs of my previous research [here](/Publications/).
-
-
 ## Current Projects
-- As a rotation project, I am currently working with Ilaria Caiazzo using the population synthesis code [COSMIC](https://github.com/COSMIC-PopSynth/COSMIC) to constrain the progenitors of some recently discovered rapidly-rotating, highly-magnetic white dwarfs.
+- I am currently working with [Ilaria Caiazzo](https://ista.ac.at/en/research/caiazzo-group/) using the population synthesis code [COSMIC](https://github.com/COSMIC-PopSynth/COSMIC) to constrain the progenitors of double white dwarf binaries.
