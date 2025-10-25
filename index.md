@@ -13,11 +13,11 @@ permalink: /
 
 In May 2025, I graduated Columbia University with BAs in Physics and Mathematics. I'm currently a first-year graduate student at the Institute of Science and Technology Austria (ISTA) working with [Zoltan Haiman](http://user.astro.columbia.edu/~zoltan/) on electromagnetic (EM) signatures of supermassive black hole binaries (SMBHBs). 
 
-So far, I have been focusing on one EM signature called gravitational self-lensing, which for edge-on black hole binaries aligning with respect to our line of sight. Anticipating that the Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) will have enough quasars discover these rare signatures, I have calculated how many such edge-on binaries we suspect to be in the LSST catalog, and how to efficiently extract these signals from noisy data. I am also an associate member of the [LSST Active Galactic Nuclei Science Collaboration](https://agn.science.lsst.org/). 
+So far, I have been focusing on one EM signature called **gravitational self-lensing**, which for edge-on black hole binaries aligning with respect to our line of sight. Anticipating that the Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) will have enough quasars discover these rare signatures, I have estimated **how many such edge-on binaries we expect in the LSST catalog**, and **how to efficiently detect these signals in noisy data**. I am also an associate member of the [LSST Active Galactic Nuclei Science Collaboration](https://agn.science.lsst.org/). 
 
 # Research Interests
 
-I am interested in searching for sub-pc supermassive black hole binaries using their EM signatures, including:
+I am interested in searching for sub-pc **supermassive black hole binaries** using their **EM signatures**, including:
 
 - Self-lensing flares
 - Relativistic Doppler boosting
