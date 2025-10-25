@@ -8,6 +8,10 @@ permalink: /Publications/
 ### *\#2: Self-lensing flares from black hole binaries. V: methods for systematic searches in LSST* (in prep) 
 **Kevin Park**, Zoltan Haiman, Chengcheng Xin, et al.
 
+<img src="/assets/images/N_dips.png"
+     alt="N_dips"
+     style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
+
 As the most recent paper in this series, we generated mock quasar light curves at realistic observation times and injected periodic self-lensing flares. We investigate methods to recover the injected periodic flares and binary parameters. 
 
 ### *\#1: Self-lensing flares from black hole binaries. IV. The number of detectable shadows (2025)*  
