@@ -6,7 +6,7 @@ permalink: /Talks/
 ---
 **3. LSST Active Galactic Nuclei (AGN) Science Collaboration (SC) October Telecon (2025)**  
 
-<img src="/assets/images/poznan"
+<img src="/assets/images/poznan.png"
      alt="Maryland"
      style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
 **2. LSST@Europe7 Conference in Poznan, Poland (2025)**  
