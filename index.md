@@ -17,7 +17,7 @@ So far, I have been focusing on one EM signature called **gravitational self-len
 
 # Research Interests
 
-I am interested in searching for sub-pc **supermassive black hole binaries** using their **EM signatures**, including:
+I am interested in searching for sub-pc **supermassive black hole binaries** using their **transient EM signatures**, including:
 
 - Self-lensing flares
 - Relativistic Doppler boosting
