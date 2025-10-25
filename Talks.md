@@ -11,6 +11,9 @@ permalink: /Talks/
      style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
 **2. LSST@Europe7 Conference in Poznan, Poland (2025)**  
 
+<img ...>
+<img ...>
+
 <img src="/assets/images/maryland.png"
      alt="Maryland"
      style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
