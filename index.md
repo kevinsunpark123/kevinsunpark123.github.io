@@ -13,11 +13,22 @@ permalink: /
 
 In May 2025, I graduated Columbia University with BAs in Physics and Mathematics. I'm currently a first-year graduate student at the Institute of Science and Technology Austria (ISTA) working with [Zoltan Haiman](http://user.astro.columbia.edu/~zoltan/) on electromagnetic (EM) signatures of supermassive black hole binaries (SMBHBs). 
 
-So far, I have been focusing on one EM signature called gravitational self-lensing, which for edge-on black hole binaries aligning with respect to our line of sight. Anticipating that the Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) will have enough quasars discover these rare signatures, I have calculated how many such edge-on binaries we suspect to be in the LSST catalog, and how to efficiently extract these signals from noisy data. I am also an associate member of the LSST Active Galactic Nuclei (AGN) Science Collaboration (SC). 
+So far, I have been focusing on one EM signature called gravitational self-lensing, which for edge-on black hole binaries aligning with respect to our line of sight. Anticipating that the Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) will have enough quasars discover these rare signatures, I have calculated how many such edge-on binaries we suspect to be in the LSST catalog, and how to efficiently extract these signals from noisy data. I am also an associate member of the [LSST Active Galactic Nuclei Science Collaboration][https://agn.science.lsst.org/]. 
 
 # Research Interests
 
-I am interested in all types of EM signatures of SMBHBs, e.g. relativistic Doppler Boost, hydrodynamical accretion variability, merger signatures in light curves, spectral signatures, etc. I am also interested in the recently discovered Quasi-Periodic Eruptions (QPEs), which are thought to be stellar-mass objects periodically punching through the accretion disks of supermassive black holes.
+I am interested in searching for sub-pc supermassive black hole binaries using their EM signatures, including:
+
+- Self-lensing flares
+- Relativistic Doppler boosting
+- (Hydrodynamical) Accretion variability
+- Merger Signatures
+- Spectral signatures (e.g. shifting broad lines)
+- Blazar/Jet-related variability and flares.
+
+Eventually, I would like to do multi-messenger astrophysics with Pulsar Timing Arrays (PTAs) and Laser Interferometer Space Antenna (LISA).
+
+I am also interested in the recently discovered Quasi-Periodic Eruptions (QPEs), which are thought to be stellar-mass objects periodically punching through the accretion disks of supermassive black holes.
 
 ## Contact Me at:
-- 📧 [Kevin.Park@ist.ac.at](mailto:Kevin.Park@ist.ac.at)
+- [Kevin.Park@ist.ac.at](mailto:Kevin.Park@ist.ac.at)
