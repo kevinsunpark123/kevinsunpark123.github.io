@@ -10,3 +10,6 @@ permalink: /Talks/
 
 **1. Joint Space Institute Workshop: “The Formation and Early Evolution of Supermassive Black Holes” in Maryland, US (2024)**
 
+<img src="/assets/images/maryland.HEIC"
+     alt="Maryland"
+     style="float:right; width:300px; margin:0 0 0.75rem 1rem; border-radius:10px;">
