@@ -5,10 +5,10 @@ share-title: "Publications"
 permalink: /Publications/
 ---
 
-### *\#2: Self-lensing flares from black hole binaries. V: methods for systematic searches in LSST*  
+### *\#2: Self-lensing flares from black hole binaries. V: methods for systematic searches in LSST* (in prep) 
 **Kevin Park**, Zoltan Haiman, Chengcheng Xin, et al.
 
-As the most recent paper in this series, we generated mock quasar light curves and injected periodic self-lensing flares. We found that standard Lomb-Scargle Periodograms were ineffective in recovering periodicity and that Matched Filters were able to recover injected binary parameters under idealized conditions.
+As the most recent paper in this series, we generated mock quasar light curves at realistic observation times and injected periodic self-lensing flares. We investigate methods to recover the injected periodic flares and binary parameters. 
 
 ### *\#1: Self-lensing flares from black hole binaries. IV. The number of detectable shadows (2025)*  
 **Kevin Park**, Chengcheng Xin, Jordy Davelaar, Zoltan Haiman
