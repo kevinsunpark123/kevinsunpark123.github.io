@@ -31,4 +31,4 @@ Eventually, I would like to do multi-messenger astrophysics with **Pulsar Timing
 I am also interested in **Tidal Disruption Events** and the recently discovered **Quasi-Periodic Eruptions**, which are thought to be stellar-mass objects periodically punching through the accretion disks of supermassive black holes.
 
 ## Contact Me at:
-- [Kevin.Park@ist.ac.at](mailto:Kevin.Park@ist.ac.at)
+- [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
