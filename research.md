@@ -5,7 +5,12 @@ permalink: /Research/
 ---
 
 ## Current Projects
-- I am also working with [Ilaria Caiazzo](https://ista.ac.at/en/research/caiazzo-group/) using the population synthesis code [COSMIC](https://github.com/COSMIC-PopSynth/COSMIC) to constrain the progenitors of double white dwarf binaries.
+### Investigation of quasi-periodic flares from an AGN in ZTF
+Recently, I found an AGN in ZTF which has exhibited multiple quasi-periodic flares for more than 10 years. We are starting to think what this fascinating object could be.
+
+### Double White Dwarf Binaries
+
+I am also working with [Ilaria Caiazzo](https://ista.ac.at/en/research/caiazzo-group/) using the population synthesis code [COSMIC](https://github.com/COSMIC-PopSynth/COSMIC) to investigate formation channels of double white dwarf binaries.
 
 ## Detection Methods of Self-Lensing Flares in Supermassive Black Hole Binaries
 <img src="/assets/images/step3_best_fits.png"
