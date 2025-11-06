@@ -5,7 +5,7 @@ permalink: /Research/
 ---
 
 ## Detection Methods of Self-Lensing Flares in Supermassive Black Hole Binaries
-<img src="/assets/images/step3_best_fits.pdf"
+<img src="/assets/images/step3_best_fits.png"
      alt="N_dips"
      style="float:right; width:350px; margin:0 0 0.75rem 1rem; border-radius:10px;">
 As the most recent paper in this series, we generated mock quasar light curves at realistic observation times and injected periodic self-lensing flares. We investigate methods to recover the injected periodic flares and binary parameters. 
