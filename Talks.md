@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "List of Invited Talks"
+title: "List of Conference and Invited Talks"
 share-title: "Talks"
 permalink: /Talks/
 ---
