@@ -5,8 +5,6 @@ permalink: /Research/
 ---
 
 ## Current Projects
-- ### Investigation of quasi-periodic flares from an AGN in ZTF
-Recently, I found an AGN in ZTF which has exhibited multiple quasi-periodic flares over a long baseline. We are currently investigating the physical origin of these outbursts.
 
 - ### Double White Dwarf Binaries
 I am also working with [Ilaria Caiazzo](https://ista.ac.at/en/research/caiazzo-group/) using the population synthesis code [COSMIC](https://github.com/COSMIC-PopSynth/COSMIC) to investigate properties of double white dwarf binaries and their mergers.
