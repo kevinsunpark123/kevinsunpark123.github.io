@@ -28,7 +28,7 @@ I am interested in searching for sub-pc **supermassive black hole binaries** usi
 
 Eventually, I would like to do multi-messenger astrophysics with **Pulsar Timing Arrays (PTAs)** and **Laser Interferometer Space Antenna (LISA)**.
 
-I am also interested in **Tidal Disruption Events** and the recently discovered **Quasi-Periodic Eruptions**, which are thought to be stellar-mass objects periodically punching through the accretion disks of supermassive black holes.
+I am also interested in **Tidal Disruption Events** and the recently discovered **Quasi-Periodic Eruptions**.
 
 ## Contact Me at:
 - [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
