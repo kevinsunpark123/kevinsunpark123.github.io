@@ -21,32 +21,36 @@ p.page__subtitle {
 </style>
 
 <style>
-  /* Fullscreen background video */
-  .bg-video {
-    position: fixed;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -1;          /* behind everything else */
-    object-fit: cover;    /* crop nicely to fill the viewport */
-  }
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
 
-  /* Content overlay on top of the video */
-  .content-overlay {
-    position: relative;
-    z-index: 1;
-    padding: 2rem 1.5rem 3rem;
-    background: rgba(0, 0, 0, 0.45);  /* semi-transparent so video shows through */
-    color: #ffffff;                   /* readable on dark background */
-  }
+.bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  object-fit: cover;
+}
 
-  .content-overlay img {
-    border-radius: 10px;
-  }
+.content-overlay {
+  position: relative;
+  z-index: 1;
+  padding: 2rem 1.5rem 3rem;
+  background: rgba(0, 0, 0, 0.45);
+  color: #ffffff;
+}
+
+.content-overlay img {
+  border-radius: 10px;
+}
 </style>
+
 
 <!-- Background video -->
 <video class="bg-video" autoplay muted loop playsinline>
