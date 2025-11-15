@@ -13,7 +13,7 @@ I am also working with [Ilaria Caiazzo](https://ista.ac.at/en/research/caiazzo-g
 <img src="/assets/images/step3_best_fits.png"
      alt="N_dips"
      style="float:right; width:350px; margin:0 0 0.75rem 1rem; border-radius:10px;">
-We generated mock supermassive black hole binary light curves at realistic observation times involving periodic accretion variability, relativistic Doppler Boost, self-lensing flares, and quasar noise. We develop a three-step matched filter procedure to recover periodicity and injected binary parameters from noise and sparse sampling.
+We generated mock supermassive black hole binary light curves at realistic observation times involving periodic accretion variability, relativistic Doppler Boost, self-lensing flares, and quasar noise. We develop a three-step matched filter procedure to recover the periodicity of the self-lensing flares and injected binary parameters from noise and sparse sampling. We also show that standard Lomb-Scargle periodograms are ineffective in recovering injected periodicity due to the non-sinusoidal nature of the flares.
 
 <br><br>
 
