@@ -67,14 +67,12 @@ permalink: /Talks/
 }
 </style>
 
-# Presentations
-
 <div class="timeline">
 
   <div class="timeline-item">
-    <div class="timeline-date">2025</div>
+    <div class="timeline-date">2025.10</div>
     <div class="timeline-title">
-      LSST Active Galactic Nuclei (AGN) Science Collaboration Telecon (October 2025)
+      LSST Active Galactic Nuclei (AGN) Science Collaboration October Telecon
     </div>
     <div>
       <strong>Talk:</strong> <em>Detection Rates and Detection Methods of Self-Lensing Flares in LSST</em>
@@ -83,7 +81,7 @@ permalink: /Talks/
 
   <div class="timeline-item">
     <img src="/assets/images/poznan.png" alt="LSST@Europe7, Poznań">
-    <div class="timeline-date">2025</div>
+    <div class="timeline-date">2025.09</div>
     <div class="timeline-title">
       LSST@Europe7 Conference, Poznań, Poland
     </div>
@@ -94,7 +92,7 @@ permalink: /Talks/
 
   <div class="timeline-item">
     <img src="/assets/images/maryland.png" alt="JSI Workshop, Maryland">
-    <div class="timeline-date">2024</div>
+    <div class="timeline-date">2024.11</div>
     <div class="timeline-title">
       Joint Space Institute Workshop: “The Formation and Early Evolution of Supermassive Black Holes”, Baltimore, USA
     </div>
@@ -104,12 +102,12 @@ permalink: /Talks/
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2024</div>
+    <div class="timeline-date">2024.09</div>
     <div class="timeline-title">
       Columbia Astrofest, New York, USA
     </div>
     <div>
-      <strong>Talk:</strong> <em>Self-lensing flares from black hole binaries: the number of detectable shadows</em>
+      <strong>Poster:</strong> <em>Self-lensing flares from black hole binaries: the number of detectable shadows</em>
     </div>
   </div>
 
