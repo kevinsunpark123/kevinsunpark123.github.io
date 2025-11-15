@@ -89,7 +89,7 @@ I am also interested in **Tidal Disruption Events**, the recently discovered **Q
 ## Contact Me at:
 - [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
 
-## Image Credit:
+## Video Credit:
 
 Jordy Davelaar
 
