@@ -4,6 +4,11 @@ title: "Kevin Park"
 subtitle: "Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-Lensing"
 permalink: /
 ---
+<style>
+.page-title, .page-subtitle {
+  color: white !important;
+}
+</style>
 
 <style>
   /* Fullscreen background video */
@@ -69,5 +74,6 @@ I am also interested in **Tidal Disruption Events** and the recently discovered 
 
 ## Contact Me at:
 - [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
+
 
 </div>
