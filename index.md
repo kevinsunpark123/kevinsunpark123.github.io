@@ -1,47 +1,80 @@
 ---
-layout: page
-title: "Kevin Park"
-subtitle: "Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-Lensing"
+layout: none
 permalink: /
 ---
 
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kevin Park</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  .bg-video {
-    position: fixed;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -1;
-    object-fit: cover;
-  }
+  <style>
+    /* Basic reset */
+    * {
+      box-sizing: border-box;
+    }
 
-  .content-overlay {
-    position: relative;
-    z-index: 1;
-    padding: 2rem;
-    background: rgba(0, 0, 0, 0.35);
-    color: #fff;
-  }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
 
-  .content-overlay img {
-    border-radius: 10px;
-  }
-</style>
+    /* Fullscreen background video */
+    .bg-video {
+      position: fixed;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: -1;
+      object-fit: cover; /* behave like background-size: cover */
+    }
 
-<video class="bg-video" autoplay muted loop playsinline>
-  <source src="/assets/images/mytalk.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+    /* Content overlay on top of the video */
+    .content-overlay {
+      position: relative;
+      z-index: 1;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      background: rgba(0, 0, 0, 0.45); /* adjust opacity if you want */
+      color: #fff;
+      line-height: 1.6;
+    }
 
-<div class="content-overlay" markdown="1">
+    .content-overlay img {
+      border-radius: 10px;
+    }
+
+    a {
+      color: #aad4ff;
+    }
+
+    @media (max-width: 700px) {
+      .content-overlay {
+        padding: 1.5rem 1rem 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Background video -->
+  <video class="bg-video" autoplay muted loop playsinline>
+    <source src="/assets/images/mytalk.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- Main content; markdown is still processed inside this div -->
+  <div class="content-overlay" markdown="1">
+
+# Kevin Park  
+### Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-Lensing
 
 # About me
 
@@ -71,4 +104,7 @@ I am also interested in **Tidal Disruption Events** and the recently discovered 
 ## Contact Me at:
 - [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
 
-</div>
+  </div>
+
+</body>
+</html>
