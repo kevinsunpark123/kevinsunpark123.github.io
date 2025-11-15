@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Kevin Park"
-subtitle: "Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-Lensing"
 permalink: /
 ---
 <style>
@@ -72,7 +71,7 @@ So far, I have been focusing on one EM signature called **gravitational self-len
 
 I am interested in searching for sub-pc **supermassive black hole binaries** using their **transient EM signatures**, including:
 
-- Self-lensing flares
+- Self-lensing flares (see background video, credit: Jordy Davelaar)
 - Relativistic Doppler boosting
 - (Hydrodynamical) Accretion variability
 - Merger Signatures
