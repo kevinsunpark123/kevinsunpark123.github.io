@@ -1,27 +1,28 @@
 ---
 layout: page
 title: "Presentations"
-share-title: "Talks"
 permalink: /Talks/
 ---
-**3. LSST Active Galactic Nuclei (AGN) Science Collaboration (SC) October Telecon (2025)**  
-<br>
-Talk Title: "Detection Rates and Detection Methods of Self-Lensing Flares in LSST"
 
-<img src="/assets/images/poznan.png"
-     alt="Maryland"
-     style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
-**2. LSST@Europe7 Conference in Poznan, Poland (2025)**  
-<br>
-Talk Title: "Detection Rates and Detection Methods of Self-Lensing Flares in LSST"
-<br>
-<br>
-<br>
-<br>
+# Presentations
 
-<img src="/assets/images/maryland.png"
-     alt="Maryland"
-     style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
-**1. Joint Space Institute Workshop: “The Formation and Early Evolution of Supermassive Black Holes” in Baltimore, US (2024)**
-<br>
-Talk Title: "Self-lensing flares from black hole binaries: the number of detectable shadows"
+## 2025
+
+**LSST AGN SC Telecon — October 2025**  
+*Detection Rates and Detection Methods of Self-Lensing Flares in LSST*
+
+<img src="/assets/images/poznan.png" style="width:250px; border-radius:8px;">
+
+**LSST@Europe7 Conference, Poznań, Poland**  
+*Detection Rates and Detection Methods of Self-Lensing Flares in LSST*
+
+<img src="/assets/images/maryland.png" style="width:250px; border-radius:8px;">
+
+## 2024
+
+**Joint Space Institute Workshop, Baltimore**  
+*Self-lensing flares from black hole binaries: the number of detectable shadows*
+
+**Columbia Astrofest, New York**  
+*Self-lensing flares from black hole binaries: the number of detectable shadows*
+
