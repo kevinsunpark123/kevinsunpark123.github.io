@@ -5,19 +5,42 @@ subtitle: "Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-L
 permalink: /
 ---
 
-<!-- Page background (use an image, not a video) -->
 <style>
-body {
-  background: url("/assets/images/kevin_pic.jpeg") no-repeat center center fixed;
-  background-size: cover;
-}
+  /* Fullscreen background video */
+  .bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;          /* behind everything else */
+    object-fit: cover;    /* crop nicely to fill the viewport */
+  }
+
+  /* Content overlay on top of the video */
+  .content-overlay {
+    position: relative;
+    z-index: 1;
+    padding: 2rem 1.5rem 3rem;
+    background: rgba(0, 0, 0, 0.45);  /* semi-transparent so video shows through */
+    color: #ffffff;                   /* readable on dark background */
+  }
+
+  .content-overlay img {
+    border-radius: 10px;
+  }
 </style>
 
-<!-- Inline video player (this *is* your actual video) -->
-<video controls width="700">
-  <source src="/assets/images/mytalk.mp4" type="video/mp4">
+<!-- Background video -->
+<video class="bg-video" autoplay muted loop playsinline>
+  <source src="/assets/images/inc87.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<!-- Your normal content, rendered as Markdown -->
+<div class="content-overlay" markdown="1">
 
 # About me
 
@@ -46,3 +69,5 @@ I am also interested in **Tidal Disruption Events** and the recently discovered 
 
 ## Contact Me at:
 - [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
+
+</div>
