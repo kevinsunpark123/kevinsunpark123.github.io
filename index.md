@@ -5,6 +5,51 @@ subtitle: "Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-L
 permalink: /
 ---
 
+<style>
+  /* Make sure the page doesn't have weird gaps around the edges */
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Fullscreen background video */
+  .bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;          /* behind everything */
+    object-fit: cover;    /* behave like background-size: cover */
+  }
+
+  /* Content block that sits on top of the video */
+  .content-overlay {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+    /* Optional: add a subtle background to improve readability */
+    background: rgba(0, 0, 0, 0.35);
+    color: #fff;
+  }
+
+  /* Keep your image looking good on the dark background */
+  .content-overlay img {
+    border-radius: 10px;
+  }
+</style>
+
+<!-- Background video -->
+<video class="bg-video" autoplay muted loop playsinline>
+  <source src="/assets/images/inc87.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- Your normal page content, now on top of the video -->
+<div class="content-overlay">
+
 # About me
 
 <img src="/assets/images/kevin_pic.jpeg"
@@ -32,3 +77,5 @@ I am also interested in **Tidal Disruption Events** and the recently discovered 
 
 ## Contact Me at:
 - [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
+
+</div>
