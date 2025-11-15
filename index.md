@@ -5,7 +5,7 @@ subtitle: "Supermassive Black Hole Binaries, Quasars, LSST, Gravitational Self-L
 permalink: /
 ---
 <style>
-.page-title, .page-subtitle {
+h1, h2, h3, h4, h5, h6 {
   color: white !important;
 }
 </style>
