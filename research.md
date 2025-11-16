@@ -5,7 +5,7 @@ permalink: /Research/
 ---
 
 <style>
-  /* Make this section full-width, breaking out of the centered container */
+  /* Full-width section */
   .full-width-breakout {
     width: 100vw;
     margin-left: calc(50% - 50vw);
@@ -20,8 +20,8 @@ permalink: /Research/
   }
 
   .research-card {
-    flex: 1 1 calc(50% - 1rem);  /* slightly less than half */
-    max-width: calc(50% - 1rem); /* so two fit side by side */
+    flex: 1 1 calc(50% - 1rem);
+    max-width: calc(50% - 1rem);
     background: #ffffff;
     border-radius: 12px;
     padding: 1.5rem;
@@ -35,16 +35,23 @@ permalink: /Research/
   }
 
   .research-card img {
-    width: 100%;
-    height: auto;
+    float: right;
+    width: 50%;          /* about half the card width */
+    height: auto;        /* keep aspect ratio */
     border-radius: 10px;
-    margin: 0 0 0.75rem 0;
+    margin: 0 0 0.75rem 1rem; /* space to the left & below */
   }
 
   @media (max-width: 900px) {
     .research-card {
       flex: 1 1 100%;
       max-width: 100%;
+    }
+    .research-card img {
+      float: none;
+      display: block;
+      width: 100%;
+      margin: 0 0 0.75rem 0;
     }
   }
 </style>
