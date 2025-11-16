@@ -20,8 +20,8 @@ permalink: /Research/
   }
 
   .research-card {
-    flex: 1 1 50%;
-    max-width: 50%;
+    flex: 1 1 calc(50% - 1rem);  /* slightly less than half */
+    max-width: calc(50% - 1rem); /* so two fit side by side */
     background: #ffffff;
     border-radius: 12px;
     padding: 1.5rem;
