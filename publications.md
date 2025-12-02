@@ -5,7 +5,7 @@ share-title: "Publications"
 permalink: /Publications/
 ---
 
-### *\#2: Self-lensing flares from black hole binaries V: systematic searches in LSST*
+### *\#2: Self-lensing flares from black hole binaries V: systematic searches in LSST* (in final preparation)
 **Kevin Park**, Zoltan Haiman, Chengcheng Xin, Tzuken Shen, Ashley Villar, Jordy Davelaar.
 
 ### *\#1: Self-lensing flares from black hole binaries. IV. The number of detectable shadows (2025)*  
