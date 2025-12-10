@@ -70,6 +70,7 @@ permalink: /Research/
         of the self-lensing flares and injected binary parameters from noise and sparse sampling.
         We also show that standard Lomb-Scargle periodograms are ineffective in recovering injected
         periodicity due to the non-sinusoidal nature of the flares.
+        The paper can be found on <a href="https://arxiv.org/abs/2512.08427">arXiv</a>.
       </p>
     </section>
 
