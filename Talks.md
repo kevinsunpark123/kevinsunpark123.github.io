@@ -70,6 +70,13 @@ permalink: /Talks/
 <div class="timeline">
 
   <div class="timeline-item">
+    <div class="timeline-date">2026.03 (accepted, travel grant of 1350 euros)</div>
+    <div class="timeline-title">
+      Dual and Binary AGN Workshop at ESTEC
+    </div>
+  </div>
+
+  <div class="timeline-item">
     <div class="timeline-date">2025.10</div>
     <div class="timeline-title">
       LSST Active Galactic Nuclei (AGN) Science Collaboration October Telecon
