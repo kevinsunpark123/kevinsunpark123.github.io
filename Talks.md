@@ -72,7 +72,7 @@ permalink: /Talks/
   <div class="timeline-item">
     <div class="timeline-date">2026.03 (accepted, travel grant of 1350 euros)</div>
     <div class="timeline-title">
-      Dual and Binary AGN Workshop at ESTEC
+      Dual and Binary AGN Workshop at European Space Agency, SCI-EA (ESTEC), Noordwijk, Netherlands
     </div>
   </div>
 
