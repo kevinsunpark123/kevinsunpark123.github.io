@@ -87,7 +87,7 @@ Long term, I hope to connect time-domain EM observations with signals from **Pul
 I am also interested in **Tidal Disruption Events**, the recently discovered **Quasi-Periodic Eruptions**, and also other high-energy transients.
 
 ## Contact Me at:
-- [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu)
+- [ksp2136@columbia.edu](mailto:ksp2136@columbia.edu) or [Kevin.Park@ista.ac.at](mailto:Kevin.Park@ista.ac.at)
 
 ## Video Credit:
 
