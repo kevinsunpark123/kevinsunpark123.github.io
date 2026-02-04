@@ -74,6 +74,9 @@ permalink: /Talks/
     <div class="timeline-title">
       Dual and Binary AGN Workshop at European Space Agency, SCI-EA (ESTEC), Noordwijk, Netherlands
     </div>
+      <div>
+      <strong>Talk:</strong> <em>Detection Rates and Detection Methods of Self-Lensing Flares in LSST</em>
+    </div>
   </div>
 
   <div class="timeline-item">
