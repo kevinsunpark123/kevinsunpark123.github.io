@@ -70,7 +70,7 @@ permalink: /Research/
         of the self-lensing flares and injected binary parameters from noise and sparse sampling.
         We also show that standard Lomb-Scargle periodograms are ineffective in recovering injected
         periodicity due to the non-sinusoidal nature of the flares.
-        The paper can be found on <a href="https://arxiv.org/abs/2512.08427">arXiv</a>.
+        The paper can be found at <a href="[https://arxiv.org/abs/2512.08427](https://journals.aps.org/prd/abstract/10.1103/p328-62sl)">PRD</a>.
       </p>
     </section>
 
@@ -84,8 +84,7 @@ permalink: /Research/
         relativistic ray-tracing methods, I calculated the detection rates of flares and dips in LSST.
         The paper was published in
         <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.063011">Physical Review D</a>
-        and can also be found on
-        <a href="https://ui.adsabs.harvard.edu/abs/2025PhRvD.111f3011P/abstract">NASA ADS</a>.
+
       </p>
     </section>
 
