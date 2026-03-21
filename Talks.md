@@ -83,7 +83,7 @@ permalink: /Talks/
   <div class="timeline-item">
     <div class="timeline-date">2025.10</div>
     <div class="timeline-title">
-      LSST Active Galactic Nuclei (AGN) Science Collaboration October Telecon
+      LSST Active Galactic Nuclei (AGN) Science Collaboration October Telecon (Invited)
     </div>
     <div>
       <strong>Talk:</strong> <em>Detection Rates and Detection Methods of Self-Lensing Flares in LSST</em>
