@@ -4,7 +4,6 @@ title: "Publications"
 share-title: "Publications"
 permalink: /Publications/
 ---
-
 ### *\#3: Plato's view on supermassive black hole binaries: Exploring the faint limit of ESA's Plato space mission
 Nicholas Jannsen, Pablo Huijse, **Kevin Park**, Zoltan Haiman, Daniel J. D'Orazio, Conny Aerts
 <br>
