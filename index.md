@@ -80,7 +80,7 @@ I am interested in using **time-domain and multi-wavelength observations** to id
 - Spectral signatures (e.g. shifting broad lines)
 - Blazar/Jet-related variability.
 
-I am also interested in **Little Red Dots (LRDs)**, **Tidal Disruption Events**, **Quasi-Periodic Eruptions**, and other high-energy transients.
+I am also interested in **Little Red Dots (LRDs)**, **Tidal Disruption Events**, and **Quasi-Periodic Eruptions**.
 
 ## Contact Me at:
 [Kevin.Park@ista.ac.at](mailto:Kevin.Park@ista.ac.at)
