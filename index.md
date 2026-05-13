@@ -69,8 +69,6 @@ html, body {
 
 In February 2025, I graduated Columbia University with a B.A. in Physics and a B.A. in Mathematics. I am a first year graduate student working with Prof. [Zoltan Haiman](http://user.astro.columbia.edu/~zoltan/) at the Institute of Science and Technology (ISTA) on electromagnetic (EM) signatures of supermassive black hole binaries. 
 
-So far, I have been focusing on one EM signature called **gravitational self-lensing** (see background video), which are periodic microlensing flares expected to occur for edge-on black hole binaries. Anticipating that the Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) will have enough quasars discover these rare signatures, I have estimated **how many such edge-on binaries we expect in the LSST catalog**, and **how to efficiently detect these signals in noisy data**. I am also an associate member of the [LSST Active Galactic Nuclei Science Collaboration](https://agn.science.lsst.org/) and a member of the Binary Follow-up Task Force Subgroup, which aims to follow-up on LSST alerts on AGN transients to find binaries.
-
 # Research Interests
 
 I am interested in using **time-domain and multi-wavelength observations** to identify sub-parsec supermassive black hole binaries through their transient EM signatures, including:
@@ -82,9 +80,7 @@ I am interested in using **time-domain and multi-wavelength observations** to id
 - Spectral signatures (e.g. shifting broad lines)
 - Blazar/Jet-related variability.
 
-Long term, I hope to connect time-domain EM observations with signals from **Pulsar Timing Arrays (PTAs)** or the **Laser Interferometer Space Antenna (LISA)** to better understand supermassive black hole binaries from a multi-messenger perspective.
-
-I am also interested in **Tidal Disruption Events**, the recently discovered **Quasi-Periodic Eruptions**, and also other high-energy transients.
+I am also interested in **Little Red Dots (LRDs)**, **Tidal Disruption Events**, **Quasi-Periodic Eruptions**, and other high-energy transients.
 
 ## Contact Me at:
 [Kevin.Park@ista.ac.at](mailto:Kevin.Park@ista.ac.at)
