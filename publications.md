@@ -4,6 +4,11 @@ title: "Publications"
 share-title: "Publications"
 permalink: /Publications/
 ---
+### *\#4: A new sample of Little Red Dots at z<0.45 in DESI DR1: Broad Balmer lines, low ionization spectrum and no variability*
+**Kevin Park**, Alberto Torralba, Jorryt Matthee, Sara Mascia, Zoltán Haiman, Rohan P. Naidu, Anna de Graaff
+<br>
+Read at: [arXiv](https://arxiv.org/abs/2605.14233)
+
 ### *\#3: Plato's view on supermassive black hole binaries: Exploring the faint limit of ESA's Plato space mission*
 Nicholas Jannsen, Pablo Huijse, **Kevin Park**, Zoltan Haiman, Daniel J. D'Orazio, Conny Aerts
 <br>
