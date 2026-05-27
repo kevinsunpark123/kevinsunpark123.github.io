@@ -61,7 +61,7 @@ permalink: /Research/
     
     <section class="research-card">
       <h2>Discovery of new Little Red Dots in DESI DR1</h2>
-      <img src="/assets/images/multipanel_SEDs.pdf"
+      <img src="/assets/images/multipanel_SEDs.png"
            alt="LRD_SEDs">
       <p>
       </p>
