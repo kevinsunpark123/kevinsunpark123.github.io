@@ -58,6 +58,14 @@ permalink: /Research/
 
 <div class="full-width-breakout">
   <div class="research-grid">
+    
+    <section class="research-card">
+      <h2>Discovery of new Little Red Dots in DESI DR1</h2>
+      <img src="/assets/images/multipanel_SEDs.pdf"
+           alt="LRD_SEDs">
+      <p>
+      </p>
+    </section>
 
     <section class="research-card">
       <h2>Detection Methods of Self-Lensing Flares in Supermassive Black Hole Binaries</h2>
