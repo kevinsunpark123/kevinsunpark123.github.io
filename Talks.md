@@ -70,6 +70,26 @@ permalink: /Talks/
 <div class="timeline">
 
   <div class="timeline-item">
+    <div class="timeline-date">2026.10 </div>
+    <div class="timeline-title">
+      Young Astronomers on Active Galactic Nuclei (YAGN), University of Seville, Spain
+    </div>
+      <div>
+      <strong>Talk:</strong> <em>A new sample of Little Red Dots at z<0.45 in DESI DR1: Broad Balmer lines, low ionization spectrum and no variability</em>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2026.09</div>
+    <div class="timeline-title">
+      ÖPG-CMD Joint Meeting 2026, Graz Center of Physics, Austria
+    </div>
+      <div>
+      <strong>Talk:</strong> <em>A new sample of Little Red Dots at z<0.45 in DESI DR1: Broad Balmer lines, low ionization spectrum and no variability</em>
+    </div>
+  </div>
+
+  <div class="timeline-item">
       <img src="/assets/images/ESTEC.png" alt="ESA-ESTEC">
     <div class="timeline-date">2026.03 (travel grant of 1350 euros)</div>
     <div class="timeline-title">
