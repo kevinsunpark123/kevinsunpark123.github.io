@@ -71,7 +71,7 @@ html, body {
      alt="Kevin picture"
      style="float:right; width:200px; margin:0 0 0.75rem 1rem; border-radius:10px;">
 
-In February 2025, I graduated Columbia University with a B.A. in Physics and a B.A. in Mathematics. I am a first year graduate student working with Prof. [Zoltan Haiman](http://user.astro.columbia.edu/~zoltan/) at the Institute of Science and Technology (ISTA) on electromagnetic (EM) signatures of supermassive black hole binaries. I am from Yongin, South Korea, where completed most of my primary and secondary education. 
+In February 2025, I graduated Columbia University with a B.A. in Physics and a B.A. in Mathematics. I am a first year graduate student working with Prof. [Zoltan Haiman](http://user.astro.columbia.edu/~zoltan/) at the Institute of Science and Technology (ISTA) on electromagnetic (EM) signatures of supermassive black hole binaries. I am from Yongin, South Korea, where I completed most of my primary and secondary education. 
 
 # Research Interests
 
