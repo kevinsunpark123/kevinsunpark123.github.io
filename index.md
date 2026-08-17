@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Kevin Park (박선호)"
+title: "Kevin Park 박선호"
 permalink: /
 ---
 <style>
