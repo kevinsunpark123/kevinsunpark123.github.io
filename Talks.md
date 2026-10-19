@@ -80,7 +80,7 @@ permalink: /Talks/
   </div>
 
   <div class="timeline-item">
-    <img src="/assets/images/graz" alt="Graz">
+    <img src="/assets/images/graz.png" alt="Graz">
     <div class="timeline-date">2026.09</div>
     <div class="timeline-title">
       ÖPG-CMD Joint Meeting 2026, Graz Center of Physics, Austria
