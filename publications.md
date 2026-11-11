@@ -9,10 +9,10 @@ permalink: /Publications/
 <br>
 Read at: [arXiv](https://arxiv.org/abs/2605.14233)
 
-### *\#3: Plato's view on supermassive black hole binaries: Exploring the faint limit of ESA's Plato space mission (2026, accepted in A&A)*
+### *\#3: Plato's view on supermassive black hole binaries: Exploring the faint limit of ESA's Plato space mission (2026.11)*
 Nicholas Jannsen, Pablo Huijse, **Kevin Park**, Zoltan Haiman, Daniel J. D'Orazio, Conny Aerts
 <br>
-Read at: [arXiv](https://arxiv.org/abs/2605.09037)
+Read at: [A&A]([https://arxiv.org/abs/2605.09037](https://www.aanda.org/articles/aa/abs/2026/11/aa60813-26/aa60813-26.html))
 
 ### *\#2: Self-lensing flares from black hole binaries V: systematic searches in LSST (2026.03)*
 **Kevin Park**, Zoltan Haiman, Chengcheng Xin, Tzuken Shen, Ashley Villar, Jordy Davelaar.
